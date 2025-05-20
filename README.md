@@ -30,12 +30,7 @@ This project presents the **design and implementation of a 32-bit single-cycle R
 
 ---
 
- Architecture Diagram
 
-![Block Diagram](images/processor_block_diagram.png)  
-*Fig: Single-Cycle RISC-V Processor Block Diagram*
-
----
 
  Components
 
@@ -71,10 +66,7 @@ Validation
 - Programs tested on-chip for instruction compliance
 - Results displayed via LEDs/register readout
 
- Example Waveform
 
-![Simulation Waveform](images/simulation_waveform.png)  
-*Fig: Instruction Execution Simulation*
 
 ---
 
@@ -97,11 +89,6 @@ Validation
 
 ---
 
-Demo Snapshots
-
- Processor Running DFS (Demo Code)
-
-![DFS Output](images/demo_dfs_output.png)
 
 
 License
